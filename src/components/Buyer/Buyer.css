@@ -1,0 +1,62 @@
+.buyer{
+    position: relative;
+    z-index: 1000;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    animation-duration: 0.5s;
+    animation-timing-function: step-start;
+    animation-iteration-count: infinite;
+    /* background-image: url('../../../img/Buyer/stay_front.png'); */
+}
+
+/* .go-front{
+    animation-name: goFront;
+} */
+
+@keyframes goFront{
+    0%{
+        background-image: url(../../img/Buyer/go_front_1.png);
+    }
+    50%{
+        background-image: url(../../img/Buyer/go_front_2.png);
+    }
+    100%{
+        background-image: url(../../img/Buyer/go_front_1.png);
+    }
+}
+
+@keyframes goBack{
+    0%{
+        background-image: url(../../img/Buyer/go_back_1.png);
+    }
+    50%{
+        background-image: url(../../img/Buyer/go_back_2.png);
+    }
+    100%{
+        background-image: url(../../img/Buyer/go_back_1.png);
+    }
+}
+
+@keyframes goLeft{
+    0%{
+        background-image: url(../../img/Buyer/go_left_1.png);
+    }
+    50%{
+        background-image: url(../../img/Buyer/go_left_2.png);
+    }
+    100%{
+        background-image: url(../../img/Buyer/go_left_1.png);
+    }
+}
+
+@keyframes goRight{
+    0%{
+        background-image: url(../../img/Buyer/go_right_1.png);
+    }
+    50%{
+        background-image: url(../../img/Buyer/go_right_2.png);
+    }
+    100%{
+        background-image: url(../../img/Buyer/go_right_1.png);
+    }
+}

@@ -1,0 +1,23 @@
+.payment-item{
+    min-width: 100px;
+    display: flex;
+}
+
+.total-item-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+}
+.total-item-info img{
+    width: 35px;
+}
+
+.item-counter{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.item-counter p{
+    text-align: center;
+}

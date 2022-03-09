@@ -1,0 +1,39 @@
+.buy-card{
+    width: 100px;
+    height: 130px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.buy-card img{
+    height: 50px;
+    margin: 0;
+}
+
+.buy-card-name{
+    font-weight: 500;
+    margin: 0;
+    text-align: center;
+}
+.buy-card-price{
+    margin: 0;
+}
+
+.buy-counter{
+    display: flex;
+    width: 100px;
+    justify-content: space-around;
+}
+
+.buy-counter-btn{
+    height: 25px;
+    width: 30px;
+    cursor: pointer !important;
+    border: none;
+    border-radius: 3px;
+}
+.buy-counter p{
+    margin: 0;
+    font-weight: 500;
+    cursor: pointer;
+}

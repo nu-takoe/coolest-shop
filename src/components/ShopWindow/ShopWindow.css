@@ -1,0 +1,12 @@
+.shop-window{
+    width: 1100px;
+    height: 700px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #8C162C;
+    position: relative;
+    background-image: url(../../img/Decorations/floor.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}

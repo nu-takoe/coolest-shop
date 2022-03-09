@@ -1,0 +1,364 @@
+{ 
+    "items" : [
+        {
+            "objectId": 1,
+            "itemId": 1,
+            "name": "белый хлеб",
+            "img": "http://localhost:3000/img/beliy-hleb.png",
+            "price": 30,
+            "description": "это съедобно 1",
+            "count": 0
+        },
+        {
+            "objectId": 1,
+            "itemId": 2,
+            "name": "серый хлеб",
+            "img": "http://localhost:3000/img/seriy-hleb.png",
+            "price": 35,
+            "description": "это съедобно 2",
+            "count": 0
+        },
+        {
+            "objectId": 1,
+            "itemId": 3,
+            "name": "хлеб",
+            "img": "http://localhost:3000/img/hleb.png",
+            "price": 31,
+            "description": "это съедобно 3",
+            "count": 0
+        },
+        {
+            "objectId": 1,
+            "itemId": 4,
+            "name": "батон",
+            "img": "http://localhost:3000/img/baton.png",
+            "price": 35,
+            "description": "это съедобно 4",
+            "count": 0
+        },
+        {
+            "objectId": 1,
+            "itemId": 5,
+            "name": "тоже хлеб",
+            "img": "http://localhost:3000/img/tozhe-hleb.png",
+            "price": 31,
+            "description": "это съедобно 5",
+            "count": 0
+        },
+        {
+            "objectId": 2,
+            "itemId": 6,
+            "name": "молоко",
+            "img": "http://localhost:3000/img/moloko.png",
+            "price": 50,
+            "description": "это съедобно 6",
+            "count": 0
+        },
+        {
+            "objectId": 2,
+            "itemId": 7,
+            "name": "кефир",
+            "img": "http://localhost:3000/img/kefir.png",
+            "price": 50,
+            "description": "это съедобно 7",
+            "count": 0
+        },
+        {
+            "objectId": 2,
+            "itemId": 8,
+            "name": "сметана",
+            "img": "http://localhost:3000/img/smetana.png",
+            "price": 70,
+            "description": "это съедобно 8",
+            "count": 0
+        },
+        {
+            "objectId": 2,
+            "itemId": 9,
+            "name": "творог",
+            "img": "http://localhost:3000/img/tvorog.png",
+            "price": 80,
+            "description": "это съедобно 9",
+            "count": 0
+        },
+        {
+            "objectId": 2,
+            "itemId": 10,
+            "name": "тоже молоко",
+            "img": "http://localhost:3000/img/tozhe-moloko.png",
+            "price": 51,
+            "description": "это съедобно 10",
+            "count": 0
+        },
+        {
+            "objectId": 3,
+            "itemId": 11,
+            "name": "крабовые палочки",
+            "img": "http://localhost:3000/img/krabovie-palki.png",
+            "price": 100,
+            "description": "это съедобно 11",
+            "count": 0
+        },
+        {
+            "objectId": 3,
+            "itemId": 12,
+            "name": "горбушечка солёная",
+            "img": "http://localhost:3000/img/gorbusha.png",
+            "price": 170,
+            "description": "это съедобно 12",
+            "count": 0
+        },
+        {
+            "objectId": 3,
+            "itemId": 13,
+            "name": "скумбриюшка солёненькая",
+            "img": "http://localhost:3000/img/skumbria.png",
+            "price": 150,
+            "description": "это съедобно 13",
+            "count": 0
+        },
+        {
+            "objectId": 3,
+            "itemId": 14,
+            "name": "селёдка",
+            "img": "http://localhost:3000/img/seledka.png",
+            "price": 80,
+            "description": "это съедобно 14",
+            "count": 0
+        },
+        {
+            "objectId": 3,
+            "itemId": 15,
+            "name": "рыба",
+            "img": "http://localhost:3000/img/riba.png",
+            "price": 100,
+            "description": "это съедобно 15",
+            "count": 0
+        },
+        {
+            "objectId": 4,
+            "itemId": 16,
+            "name": "помидор",
+            "img": "http://localhost:3000/img/pomidor.png",
+            "price": 20,
+            "description": "это съедобно 16",
+            "count": 0
+        },
+        {
+            "objectId": 4,
+            "itemId": 17,
+            "name": "огурец",
+            "img": "http://localhost:3000/img/ogurec.png",
+            "price": 15,
+            "description": "это съедобно 17",
+            "count": 0
+        },
+        {
+            "objectId": 4,
+            "itemId": 18,
+            "name": "лук",
+            "img": "http://localhost:3000/img/luk.png",
+            "price": 5,
+            "description": "это съедобно 18",
+            "count": 0
+        },
+        {
+            "objectId": 4,
+            "itemId": 19,
+            "name": "яблоко",
+            "img": "http://localhost:3000/img/yabloko.png",
+            "price": 30,
+            "description": "это съедобно 19",
+            "count": 0
+        },
+        {
+            "objectId": 4,
+            "itemId": 20,
+            "name": "апельсин",
+            "img": "http://localhost:3000/img/apelsin.png",
+            "price": 30,
+            "description": "это съедобно 20",
+            "count": 0
+        },
+        {
+            "objectId": 5,
+            "itemId": 21,
+            "name": "греча",
+            "img": "http://localhost:3000/img/grecha.png",
+            "price": 50,
+            "description": "это съедобно 21",
+            "count": 0
+        },
+        {
+            "objectId": 5,
+            "itemId": 22,
+            "name": "рис",
+            "img": "http://localhost:3000/img/ris.png",
+            "price": 30,
+            "description": "это съедобно 22",
+            "count": 0
+        },
+        {
+            "objectId": 5,
+            "itemId": 23,
+            "name": "макароны",
+            "img": "http://localhost:3000/img/makaroni.png",
+            "price": 40,
+            "description": "это съедобно 23",
+            "count": 0
+        },
+        {
+            "objectId": 5,
+            "itemId": 24,
+            "name": "овсяночка",
+            "img": "http://localhost:3000/img/ovsyanka.png",
+            "price": 60,
+            "description": "это съедобно 24",
+            "count": 0
+        },
+        {
+            "objectId": 5,
+            "itemId": 25,
+            "name": "манка",
+            "img": "http://localhost:3000/img/manka.png",
+            "price": 55,
+            "description": "это съедобно 25",
+            "count": 0
+        },
+        {
+            "objectId": 6,
+            "itemId": 26,
+            "name": "алое с манго",
+            "img": "http://localhost:3000/img/aloe-s-mango.png",
+            "price": 70,
+            "description": "это съедобно 26",
+            "count": 0
+        },
+        {
+            "objectId": 6,
+            "itemId": 27,
+            "name": "монстер",
+            "img": "http://localhost:3000/img/monster.png",
+            "price": 100,
+            "description": "это съедобно 27",
+            "count": 0
+        },
+        {
+            "objectId": 6,
+            "itemId": 28,
+            "name": "водичка",
+            "img": "http://localhost:3000/img/voda.png",
+            "price": 20,
+            "description": "это съедобно 28",
+            "count": 0
+        },
+        {
+            "objectId": 6,
+            "itemId": 29,
+            "name": "кокакока",
+            "img": "http://localhost:3000/img/coca.png",
+            "price": 59.99,
+            "description": "это съедобно 29",
+            "count": 0
+        },
+        {
+            "objectId": 6,
+            "itemId": 30,
+            "name": "квасок",
+            "img": "http://localhost:3000/img/kvas.png",
+            "price": 50,
+            "description": "это съедобно 30",
+            "count": 0
+        },
+        {
+            "objectId": 7,
+            "itemId": 31,
+            "name": "сушеный манго",
+            "img": "http://localhost:3000/img/mango.png",
+            "price": 120,
+            "description": "это съедобно 31",
+            "count": 0
+        },
+        {
+            "objectId": 7,
+            "itemId": 32,
+            "name": "чипсеки",
+            "img": "http://localhost:3000/img/chips.png",
+            "price": 80,
+            "description": "это съедобно 32",
+            "count": 0
+        },
+        {
+            "objectId": 7,
+            "itemId": 33,
+            "name": "сухарики",
+            "img": "http://localhost:3000/img/suhariki.png",
+            "price": 30,
+            "description": "это съедобно 33",
+            "count": 0
+        },
+        {
+            "objectId": 7,
+            "itemId": 34,
+            "name": "туки всякие",
+            "img": "http://localhost:3000/img/tuc.png",
+            "price": 46,
+            "description": "это съедобно 34",
+            "count": 0
+        },
+        {
+            "objectId": 7,
+            "itemId": 35,
+            "name": "рыбки в шоколаде",
+            "img": "http://localhost:3000/img/ribki.png",
+            "price": 9999,
+            "description": "это съедобно 35",
+            "count": 0
+        },
+        {
+            "objectId": 8,
+            "itemId": 36,
+            "name": "курица",
+            "img": "http://localhost:3000/img/kurica.png",
+            "price": 300,
+            "description": "это съедобно 36",
+            "count": 0
+        },
+        {
+            "objectId": 8,
+            "itemId": 37,
+            "name": "говядина",
+            "img": "http://localhost:3000/img/govyadina.png",
+            "price": 500,
+            "description": "это съедобно 37",
+            "count": 0
+        },
+        {
+            "objectId": 8,
+            "itemId": 38,
+            "name": "свинина",
+            "img": "http://localhost:3000/img/svinina.png",
+            "price": 300,
+            "description": "это съедобно 38",
+            "count": 0
+        },
+        {
+            "objectId": 8,
+            "itemId": 39,
+            "name": "сосиски",
+            "img": "http://localhost:3000/img/sosiski.png",
+            "price": 200,
+            "description": "это съедобно 39",
+            "count": 0
+        },
+        {
+            "objectId": 8,
+            "itemId": 40,
+            "name": "колбаса",
+            "img": "http://localhost:3000/img/colbasa.png",
+            "price": 200,
+            "description": "это съедобно 40",
+            "count": 0
+        }
+    ]
+}
